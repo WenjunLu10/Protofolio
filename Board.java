@@ -1,6 +1,4 @@
 /**
- * Name: Wenjun Lu
- * Pennkey: wenjunlu
  * Execution: dont execute this one 
  *
  * Description: a bigger class, the playboard, something containing all blocks
