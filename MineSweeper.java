@@ -1,6 +1,4 @@
 /**
- * Name: Wenjun Lu
- * Pennkey: wenjunlu
  * Execution: java MineSweeper
  *
  * Description: Using java to reproduce the classic minesweeper game
