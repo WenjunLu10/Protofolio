@@ -1,6 +1,4 @@
 /**
- * Name: Wenjun Lu
- * Pennkey: wenjunlu
  * Execution: don't execute this one 
  *
  * Description: the basic object in minesweeper which is a block.
